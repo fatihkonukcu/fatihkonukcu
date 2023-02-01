@@ -6,4 +6,4 @@
 
 
 <br><br>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,jquery,mysql)]()
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,jquery,mysql)](https://github.com/fatihkonukcu)
